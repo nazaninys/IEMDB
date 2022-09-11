@@ -1,0 +1,6 @@
+[submodule "IEMDB-Backend"]
+	path = IEMDB-Backend
+	url = https://github.com/nazaninys/IEMDB-Backend
+[submodule "IEMDB-Frontend"]
+	path = IEMDB-Frontend
+	url = https://github.com/nazaninys/IEMDB-Frontend
